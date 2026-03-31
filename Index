@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+<meta charset="UTF-8">
+<title>Gutteræs 2026</title>
+<style>
+body {
+  margin:0;
+  background:black;
+  color:white;
+  text-align:center;
+  font-family:Arial;
+}
+img {
+  width:100%;
+  max-height:80vh;
+  object-fit:cover;
+}
+button {
+  margin-top:20px;
+  padding:20px 40px;
+  font-size:24px;
+  background:red;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+</style>
+</head>
+<body>
+
+<img src="plakat.jpg">
+
+<br>
+<button onclick="location.href='race.html'">START RACE</button>
+
+</body>
+</html>
